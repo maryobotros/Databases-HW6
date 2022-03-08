@@ -23,7 +23,6 @@ insert into Drinks (name, price) values ('Manhattan', 10);
 insert into Drinks (name, price) values ('Whiskey sour', 12);
 insert into Drinks (name, price) values ('Gin fizz', 11);
 
-
 insert into Ingredients (name, unit_cost, abv) values ('gin', 1, 40);
 insert into Ingredients (name, unit_cost, abv) values ('whiskey', 2, 43);
 insert into Ingredients (name, unit_cost, abv) values ('vodka', 1, 40);
